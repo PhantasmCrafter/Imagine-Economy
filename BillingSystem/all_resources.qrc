@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Resources/images/curve.png</file>
+    </qresource>
+    <qresource prefix="/database">
+        <file>Resources/database/information.db</file>
+    </qresource>
+    <qresource prefix="/styles">
+        <file>Resources/styles/black-layout.txt</file>
+        <file>Resources/styles/white-layout.txt</file>
+    </qresource>
+</RCC>
